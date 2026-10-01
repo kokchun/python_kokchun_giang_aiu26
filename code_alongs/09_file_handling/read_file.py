@@ -10,5 +10,5 @@ print(DATA_PATH)
 print("Reading a file")
 
 # open up quotes.txt and print it 
-with open(DATA_PATH / "quotes.txt") as file:
+with open(DATA_PATH / "quotes.txt", "r") as file:
     print(file.read())
