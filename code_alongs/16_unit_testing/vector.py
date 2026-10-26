@@ -61,7 +61,7 @@ class Vector:
         return len(self) == len(other)
 
     def __getitem__(self, item: int) -> float:
-        return self.numbers[item]
+        return self.numbers[-item]
 
     def plot(self, *others: "Vector") -> None:
         """Visualize 2D vectors"""
