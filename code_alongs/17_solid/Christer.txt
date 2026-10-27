@@ -1,0 +1,5 @@
+Employee report
+Name: Christer
+Phone: 031-892121
+Salary: 35000
+Net salary: 24500.0
