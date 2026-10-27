@@ -1,0 +1,5 @@
+Employee report
+Name: Anna
+Phone: 073819241
+Salary: 25000
+Net salary: 18750.0
