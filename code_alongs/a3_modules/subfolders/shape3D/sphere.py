@@ -1,2 +1,2 @@
 
-sphere = "cool sphere"
+sphere = "cool awesome sphere"
